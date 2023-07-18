@@ -1,2 +1,2 @@
 # MI-SegNet
-## Generalising Ultrasound Segmentation Networks on Unseen Domains via Mutual Information Based Feature Disentanglement
+## MI-SegNet: Mutual Information-Based US Segmentation for Unseen Domain Generalization
