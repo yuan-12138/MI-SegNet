@@ -36,7 +36,7 @@ input_channel = 1
 init_feature = 32
 
 NUM_DEMO=['Training']
-NUM_TEST_DEMO=['TS1']
+NUM_TEST_DEMO=['TS3']
 
 pre_trained=False
 mine_pretrained=False
